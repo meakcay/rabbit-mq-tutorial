@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "tutorial.rabbitmq.queue",
+    "type": "java.lang.String",
+    "description": "A description for 'tutorial.rabbitmq.queue'"
+  },
+  {
+    "name": "tutorial.rabbitmq.exchange",
+    "type": "java.lang.String",
+    "description": "A description for 'tutorial.rabbitmq.exchange'"
+  },
+  {
+    "name": "tutorial.rabbitmq.routingkey",
+    "type": "java.lang.String",
+    "description": "A description for 'tutorial.rabbitmq.routingkey'"
+  },
+  {
+    "name": "tutorial.rabbitmq.topic",
+    "type": "java.lang.String",
+    "description": "A description for 'tutorial.rabbitmq.topic'"
+  },
+  {
+    "name": "tutorial.rabbitmq.topic_exchange",
+    "type": "java.lang.String",
+    "description": "A description for 'tutorial.rabbitmq.topic_exchange'"
+  },
+  {
+    "name": "tutorial.rabbitmq.topic_queue",
+    "type": "java.lang.String",
+    "description": "A description for 'tutorial.rabbitmq.topic_queue'"
+  }
+]}

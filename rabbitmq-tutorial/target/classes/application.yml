@@ -1,0 +1,13 @@
+spring:
+  rabbitmq:
+    host: localhost
+    password: sender123
+    username: sender
+tutorial:
+  rabbitmq:
+    exchange: exchange
+    topic_exchange: topic_exchange
+    queue: queue
+    topic_queue: topic_queue
+    routingkey: messages
+    topic: message.*
